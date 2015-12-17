@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\cg_template_2014_1.cpp" />
+    <ClCompile Include="cg_template_2014_1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{0B83078B-4F57-4B66-BE57-F068CFE1023E}</ProjectGuid>
